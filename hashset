@@ -1,0 +1,3 @@
+import java.util.HashSet; // Import the HashSet class
+
+HashSet<String> cars = new HashSet<String>();
